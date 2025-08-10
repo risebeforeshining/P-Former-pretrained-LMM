@@ -5,5 +5,5 @@ The pretrained model will be released by 2025-09.
 The GraSP-VQA dataset will be released soon.
 
 <div align="center">
-  <img src=""/>
+  <img src="structure.png"/>
 </div><br/>
